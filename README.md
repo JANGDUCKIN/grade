@@ -1,2 +1,2 @@
 # grade
-![CreatePlan](./image/1)
+![CreatePlan](./image/1.png)
